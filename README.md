@@ -52,19 +52,19 @@ Este proyecto es un servidor basado en Node.js y Express para gestionar producto
 ## Estructura del Proyecto
 
    ```
-   ```ecommerce-server/
-   ```│
-   ```├── src/
-   ```│   ├── controllers/
-   ```│   │   ├── productsController.js
-   ```│   │   └── cartsController.js
-   ```│   ├── data/
-   ```│   │   ├── products.json
-   ```│   │   └── carts.json
-   ```│   ├── routes/
-   ```│   │   ├── products.js
-   ```│   │   └── carts.js
-   ```│   └── server.js
-   ```│
-   ```├── package.json
-   ```└── README.md
+   ecommerce-server/
+   │
+   ├── src/
+   │   ├── controllers/
+   │   │   ├── productsController.js
+   │   │   └── cartsController.js
+   │   ├── data/
+   │   │   ├── products.json
+   │   │   └── carts.json
+   │   ├── routes/
+   │   │   ├── products.js
+   │   │   └── carts.js
+   │   └── server.js
+   │
+   ├── package.json
+   └── README.md
