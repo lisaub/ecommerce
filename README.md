@@ -9,11 +9,11 @@ Este proyecto es un servidor basado en Node.js y Express para gestionar producto
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/lisaub/ecommerce.git
-   cd ecommerce-server   ```
+   cd ecommerce-server
 
 2. Instala las dependencias:
    ```bash
-   npm install   ```
+   npm install
 
 
 ## Uso
@@ -51,19 +51,20 @@ Este proyecto es un servidor basado en Node.js y Express para gestionar producto
 
 ## Estructura del Proyecto
 
-ecommerce-server/
-│
-├── src/
-│   ├── controllers/
-│   │   ├── productsController.js
-│   │   └── cartsController.js
-│   ├── data/
-│   │   ├── products.json
-│   │   └── carts.json
-│   ├── routes/
-│   │   ├── products.js
-│   │   └── carts.js
-│   └── server.js
-│
-├── package.json
-└── README.md
+   ```
+   ```ecommerce-server/
+   ```│
+   ```├── src/
+   ```│   ├── controllers/
+   ```│   │   ├── productsController.js
+   ```│   │   └── cartsController.js
+   ```│   ├── data/
+   ```│   │   ├── products.json
+   ```│   │   └── carts.json
+   ```│   ├── routes/
+   ```│   │   ├── products.js
+   ```│   │   └── carts.js
+   ```│   └── server.js
+   ```│
+   ```├── package.json
+   ```└── README.md
